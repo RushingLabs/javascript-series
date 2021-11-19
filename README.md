@@ -2,7 +2,9 @@
 
 A series to learn the JavaScript basics. Everything runs completely in the browser.
 
-All parts of this series will run from a single web page, however the course will not be focused on web development specifically. This is simply the lowest-barrier of starting to learn: (a) get into the language mechanics, (b) avoid 
+All parts of this series will run from a single web page, however the course will not be focused on web development specifically. This is simply the lowest-barrier of starting to learn: (a) get into the language mechanics, (b) avoid extra dependencies on outside tooling (e.g. Node.js).
+
+This series is best explored on a device where you can comfortably use the browser's Developer Tools.
 
 
 1. Let's run JavaScript in an HTML file
