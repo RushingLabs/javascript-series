@@ -7,12 +7,6 @@ All parts of this series will run from a single web page, however the course wil
 This series is best explored on a device where you can comfortably use the browser's Developer Tools.
 
 
-1. Let's run JavaScript in an HTML file
-2. JavaScript file from HTML
-
-3. Auto-invoking functions
-
-
 ## Table of Contents
 
 ### Ex. 1-1 Let's run JavaScript in an HTML file
