@@ -29,57 +29,42 @@ This series is best explored on a device where you can comfortably use the brows
     - Stick to basics: `alert()` and `console.log()`
 
 
-### Ex. 2 Variables (Pt. 1)
+### Ex. 2 Variables
 
 - Show how to create variables
     - _Stick to_ `var` _for now_. Mention there are other ways to create variables we will discuss later.
         - NOTE: There are differences between `let` and `var`: [https://www.javascripttutorial.net/es6/difference-between-var-and-let/](https://www.javascripttutorial.net/es6/difference-between-var-and-let/)
     - Show how to combine variables and strings
 
-### Ex. 3-1 If-Conditions
+### Ex. 3-1 Flow Control
 
 - Show a basic if-condition
     - BONUS: Show a 1-line `if` statement as optional, but not necessary to use
 
-### Ex. 3-2 Switch Statement
-
-### Ex. 4-1 Loops (Pt. 1, for)
-
-- Show a for-loop
-
-### Ex. 4-2 Loops (Pt. 2, while)
-
-- Show a while-loop
-
-### Ex. 4-3 Loops (Pt. 3, foreach)
-
-- Show a `foreach` loop...using an array
-
-### Ex. 5 Arrays
-
-- We can assign more than one piece of data to a single variable
-- How to create an array
-- A for-loop printing each item of the array
-
-### Ex. 6 DataTypes
-
-- This is a good "in-betweeN" from arrays to objects
-    - Loops showed arrays -> Arrays show a data storage -> different types go inside objects
-- String, Number, Boolean
-- Show the `typeof` operator
-
-### Ex. 6-1 Objects
-
-- What is an object in JavaScript?
-    - So...store anything in `{}`?
-- What is JSON?
-
-### Ex. 6-2 The `object` Type
+### Ex. 4 Functions (basic)
 
 
-### Ex. 7-1 Functions
+## To be covered
 
-### Ex. 7-2 Hoisting
+- Switch Statement
+- Foreach loop
+    - Show a `foreach` loop...using an array
+- Arrays
+    - We can assign more than one piece of data to a single variable
+    - How to create an array
+    - A for-loop printing each item of the array
+- DataTypes
+    - This is a good "in-betweeN" from arrays to objects
+        - Loops showed arrays -> Arrays show a data storage -> different types go inside objects
+    - String, Number, Boolean
+    - Show the `typeof` operator
+- Objects
+    - What is an object in JavaScript?
+        - So...store anything in `{}`?
+    - What is JSON?
+- the `object` type
+- Functions (extended)
+- Hoisting
 
 
 
