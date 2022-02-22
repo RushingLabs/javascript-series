@@ -25,15 +25,14 @@ This series is best explored on a device where you can comfortably use the brows
 
 ### Ex. 2 Variables
 
-- Show how to create variables
-    - _Stick to_ `var` _for now_. Mention there are other ways to create variables we will discuss later.
-        - NOTE: There are differences between `let` and `var`: [https://www.javascripttutorial.net/es6/difference-between-var-and-let/](https://www.javascripttutorial.net/es6/difference-between-var-and-let/)
-    - Show how to combine variables and strings
+- How to create variables
+- Combine variables and strings
 
 ### Ex. 3-1 Flow Control
 
-- Show a basic if-condition
-    - BONUS: Show a 1-line `if` statement as optional, but not necessary to use
+- if-statement
+- while loop
+- for loop
 
 ### Ex. 4 Functions (basic)
 
